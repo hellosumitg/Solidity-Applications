@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.18;
 
-contract ArrayReplaceFromEnd {
+contract ArrayElementReplaceFromEnd {
      uint[] public arr;
     
     // "GAS EFFICIENT" way to remove an element from an array
